@@ -65,16 +65,11 @@ The deliberately single-source implementation makes this submission easy to revi
 
 ## Run locally
 
-```bash
-cd ecommerce-intelligence-platform
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-python src/main.py --train-demo
-uvicorn main:app --app-dir src --reload
+cd ~/Desktop/spotify-eda-project
+bash ecommerce-intelligence-platform/start_ecommerce.sh
 ```
 
-Then open `http://127.0.0.1:8000` for the decision console or `http://127.0.0.1:8000/docs` for the API.
+Then open `http://127.0.0.1:8001` for the decision console or `http://127.0.0.1:8000/docs` for the API.
 
 ## Import real event data
 
