@@ -67,7 +67,7 @@ The deliberately single-source implementation makes this submission easy to revi
 
 cd ~/Desktop/spotify-eda-project
 bash ecommerce-intelligence-platform/start_ecommerce.sh
-```
+
 
 Then open `http://127.0.0.1:8001` for the API.
 
