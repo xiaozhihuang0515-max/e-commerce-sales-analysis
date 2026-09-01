@@ -65,12 +65,13 @@ The deliberately single-source implementation makes this submission easy to revi
 
 ## Run locally
 
-cd ~/Desktop/spotify-eda-project
+```cd ~/Desktop/spotify-eda-project
 
 bash ecommerce-intelligence-platform/start_ecommerce.sh
+```
 
 
-Then open `http://127.0.0.1:8001` for the API.
+Then open ```http://127.0.0.1:8001``` for the API.
 
 ## Import real event data
 
