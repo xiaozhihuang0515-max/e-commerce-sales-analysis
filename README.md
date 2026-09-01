@@ -69,7 +69,7 @@ cd ~/Desktop/spotify-eda-project
 bash ecommerce-intelligence-platform/start_ecommerce.sh
 ```
 
-Then open `http://127.0.0.1:8001` for the decision console or `http://127.0.0.1:8000/docs` for the API.
+Then open `http://127.0.0.1:8001` for the API.
 
 ## Import real event data
 
