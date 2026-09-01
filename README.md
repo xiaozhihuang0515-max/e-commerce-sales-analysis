@@ -66,6 +66,7 @@ The deliberately single-source implementation makes this submission easy to revi
 ## Run locally
 
 cd ~/Desktop/spotify-eda-project
+
 bash ecommerce-intelligence-platform/start_ecommerce.sh
 
 
